@@ -241,4 +241,4 @@ This repository serves as the official landing page for HJSplit. The software is
 **Get the most recent version of HJSplit today!**
 
 ---
-**Last updated:** 2026-11-04 21:07:21 UTC
+**Last updated:** 2026-11-05 02:03:52 UTC
